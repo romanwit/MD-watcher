@@ -27,7 +27,7 @@ namespace MD_Watcher
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void MainForm_Load(object sender, EventArgs e)
         {          
             //Today log by default
             SetTodayLog(); 
